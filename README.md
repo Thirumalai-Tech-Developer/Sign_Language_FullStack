@@ -106,28 +106,34 @@ Frontend HTML pages used for user interaction.
 **<h1>▶️ How to Run</h1>**
 
 1️⃣ Clone the repository
-
+```
 git clone https://github.com/Thirumalai-Tech-Developer/Sign_Language_FullStack
+```
 
 2️⃣ Navigate to the project folder
-
+```
 cd Sign_Language_FullStack
+```
 
 3️⃣ Install dependencies
-
+```
 pip install -r requirements.txt
+```
 
 4️⃣ Run database migrations
-
+```
 python manage.py migrate
+```
 
 5️⃣ Start the server
-
+```
 python manage.py runserver
+```
 
 6️⃣ Open in browser
-
+```
 http://127.0.0.1:8000
+```
 
 ---
 
