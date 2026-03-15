@@ -1,26 +1,26 @@
-Sign Language FullStack 🤟🧠
+<h1>*Sign Language FullStack 🤟🧠*</h1>
 
-A Full Stack Deep Learning Application that performs **Sign Language Classification** and converts sign gestures into **Text and Voice**.
+A Full Stack Deep Learning Application that performs Sign Language Classification and converts sign gestures into Text and Voice.
 
-The system uses a trained deep learning model with **10,000+ training samples** and a **Django-based backend** to serve predictions through a web interface.
+The system uses a trained deep learning model with 10,000+ training samples and a Django-based backend to serve predictions through a web interface.
 
----
+--------------------------------------------------
 
 🚀 Project Overview
 
-This project helps improve communication for people using **sign language** by automatically recognizing hand gestures and converting them into readable text or speech.
+This project helps improve communication for people using sign language by automatically recognizing hand gestures and converting them into readable text or speech.
 
 The system processes sign inputs, predicts the meaning using a trained model, and outputs the result through a web interface.
 
 Main goals of this project:
 
-• 🤟 Recognize sign language gestures
-• 🧠 Classify gestures using a deep learning model
-• 📝 Convert signs into text
-• 🔊 Generate voice from predicted text
-• 🌐 Provide a simple web interface
+• 🤟 Recognize sign language gestures  
+• 🧠 Classify gestures using a deep learning model  
+• 📝 Convert signs into text  
+• 🔊 Generate voice from predicted text  
+• 🌐 Provide a simple web interface  
 
----
+--------------------------------------------------
 
 🧠 Model Information
 
@@ -30,9 +30,9 @@ model/GT.pth
 Dataset Size
 10,000+ training samples
 
-The model is trained to recognize **sign language gestures** and classify them into meaningful outputs.
+The model is trained to recognize sign language gestures and classify them into meaningful outputs.
 
----
+--------------------------------------------------
 
 📂 Project Structure
 
@@ -66,9 +66,9 @@ Sign_Language_FullStack
 │   └── voice
 │
 └── model
-└── GT.pth
+    └── GT.pth
 
----
+--------------------------------------------------
 
 ⚙️ Main Components
 
@@ -87,7 +87,7 @@ Stores generated files such as voice outputs.
 📁 templates/
 Frontend HTML pages used for user interaction.
 
----
+--------------------------------------------------
 
 🛠 Technologies Used
 
@@ -98,7 +98,7 @@ Frontend HTML pages used for user interaction.
 ⚡ JavaScript
 🧠 Deep Learning
 
----
+--------------------------------------------------
 
 ▶️ How to Run
 
@@ -126,7 +126,7 @@ python manage.py runserver
 
 http://127.0.0.1:8000
 
----
+--------------------------------------------------
 
 ✨ Features
 
@@ -136,15 +136,15 @@ http://127.0.0.1:8000
 🧠 Deep learning gesture classification
 🌐 Simple web interface
 
----
+--------------------------------------------------
 
 👨‍💻 Author
 
 Thirumalai G
 GitHub: https://github.com/Thirumalai-Tech-Developer
 
----
+--------------------------------------------------
 
 📜 License
 
-This project is intended for **educational and research purposes**.
+This project is intended for educational and research purposes.
