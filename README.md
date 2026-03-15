@@ -1,4 +1,4 @@
-<h1>**Sign Language FullStack 🤟🧠**</h1>
+**<h1>Sign Language FullStack 🤟🧠</h1>**
 
 A Full Stack Deep Learning Application that performs **Sign Language Classification** and converts sign gestures into **Text and Voice**.
 
@@ -6,7 +6,7 @@ The system uses a trained deep learning model with **10,000+ training samples** 
 
 ---
 
-<h1>**🚀 Project Overview**</h1>
+**<h1>🚀 Project Overview</h1>**
 
 This project helps improve communication for people using **sign language** by automatically recognizing hand gestures and converting them into readable text or speech.
 
@@ -22,7 +22,7 @@ Main goals of this project:
 
 ---
 
-<h1>**🧠 Model Information**</h1>
+**<h1>🧠 Model Information</h1>**
 
 Model File
 model/GT.pth
@@ -34,7 +34,7 @@ The model is trained to recognize **sign language gestures** and classify them i
 
 ---
 
-<h1>**📂 Project Structure**</h1>
+**<h1>📂 Project Structure</h1>**
 
 Sign_Language_FullStack
 │
@@ -70,7 +70,7 @@ Sign_Language_FullStack
 
 ---
 
-<h1>**⚙️ Main Components**</h1>
+**<h1>⚙️ Main Components</h1>**
 
 📁 base/
 Contains the main Django application including models, views, preprocessing logic, and tokenizer implementation.
@@ -89,7 +89,7 @@ Frontend HTML pages used for user interaction.
 
 ---
 
-<h1>**🛠 Technologies Used**</h1>
+**<h1>🛠 Technologies Used</h1>**
 
 🐍 Python
 🌐 Django
@@ -100,7 +100,7 @@ Frontend HTML pages used for user interaction.
 
 ---
 
-<h1>**▶️ How to Run**</h1>
+**<h1>▶️ How to Run</h1>**
 
 1️⃣ Clone the repository
 
@@ -128,7 +128,7 @@ http://127.0.0.1:8000
 
 ---
 
-<h1>**✨ Features**</h1>
+**<h1>✨ Features</h1>**
 
 🤟 Sign to Text conversion
 📝 Text to Sign visualization
@@ -138,13 +138,13 @@ http://127.0.0.1:8000
 
 ---
 
-<h1>**👨‍💻 Author</h1>
+**<h1>👨‍💻 Author</h1>**
 
 **Thirumalai G**
 GitHub: <a href="https://github.com/Thirumalai-Tech-Developer">
 
 ---
 
-<h1>**📜 License**</h1>
+**<h1>📜 License</h1>**
 
 This project is intended for **educational and research purposes**.
