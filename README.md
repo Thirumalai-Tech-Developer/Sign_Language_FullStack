@@ -36,6 +36,8 @@ The model is trained to recognize **sign language gestures** and classify them i
 
 **<h1>📂 Project Structure</h1>**
 
+```map
+
 Sign_Language_FullStack
 │
 ├── base
@@ -68,6 +70,7 @@ Sign_Language_FullStack
 └── model
 └── GT.pth
 
+```
 ---
 
 **<h1>⚙️ Main Components</h1>**
