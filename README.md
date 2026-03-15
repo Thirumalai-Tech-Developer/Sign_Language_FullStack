@@ -1,28 +1,28 @@
-<h1>*Sign Language FullStack 🤟🧠*</h1>
+<h1>**Sign Language FullStack 🤟🧠**</h1>
 
-A Full Stack Deep Learning Application that performs Sign Language Classification and converts sign gestures into Text and Voice.
+A Full Stack Deep Learning Application that performs **Sign Language Classification** and converts sign gestures into **Text and Voice**.
 
-The system uses a trained deep learning model with 10,000+ training samples and a Django-based backend to serve predictions through a web interface.
+The system uses a trained deep learning model with **10,000+ training samples** and a **Django-based backend** to serve predictions through a web interface.
 
---------------------------------------------------
+---
 
-🚀 Project Overview
+<h1>**🚀 Project Overview**</h1>
 
-This project helps improve communication for people using sign language by automatically recognizing hand gestures and converting them into readable text or speech.
+This project helps improve communication for people using **sign language** by automatically recognizing hand gestures and converting them into readable text or speech.
 
 The system processes sign inputs, predicts the meaning using a trained model, and outputs the result through a web interface.
 
 Main goals of this project:
 
-• 🤟 Recognize sign language gestures  
-• 🧠 Classify gestures using a deep learning model  
-• 📝 Convert signs into text  
-• 🔊 Generate voice from predicted text  
-• 🌐 Provide a simple web interface  
+• 🤟 Recognize sign language gestures
+• 🧠 Classify gestures using a deep learning model
+• 📝 Convert signs into text
+• 🔊 Generate voice from predicted text
+• 🌐 Provide a simple web interface
 
---------------------------------------------------
+---
 
-🧠 Model Information
+<h1>**🧠 Model Information**</h1>
 
 Model File
 model/GT.pth
@@ -30,11 +30,11 @@ model/GT.pth
 Dataset Size
 10,000+ training samples
 
-The model is trained to recognize sign language gestures and classify them into meaningful outputs.
+The model is trained to recognize **sign language gestures** and classify them into meaningful outputs.
 
---------------------------------------------------
+---
 
-📂 Project Structure
+<h1>**📂 Project Structure**</h1>
 
 Sign_Language_FullStack
 │
@@ -66,11 +66,11 @@ Sign_Language_FullStack
 │   └── voice
 │
 └── model
-    └── GT.pth
+└── GT.pth
 
---------------------------------------------------
+---
 
-⚙️ Main Components
+<h1>**⚙️ Main Components**</h1>
 
 📁 base/
 Contains the main Django application including models, views, preprocessing logic, and tokenizer implementation.
@@ -87,9 +87,9 @@ Stores generated files such as voice outputs.
 📁 templates/
 Frontend HTML pages used for user interaction.
 
---------------------------------------------------
+---
 
-🛠 Technologies Used
+<h1>**🛠 Technologies Used**</h1>
 
 🐍 Python
 🌐 Django
@@ -98,9 +98,9 @@ Frontend HTML pages used for user interaction.
 ⚡ JavaScript
 🧠 Deep Learning
 
---------------------------------------------------
+---
 
-▶️ How to Run
+<h1>**▶️ How to Run**</h1>
 
 1️⃣ Clone the repository
 
@@ -126,9 +126,9 @@ python manage.py runserver
 
 http://127.0.0.1:8000
 
---------------------------------------------------
+---
 
-✨ Features
+<h1>**✨ Features**</h1>
 
 🤟 Sign to Text conversion
 📝 Text to Sign visualization
@@ -136,15 +136,15 @@ http://127.0.0.1:8000
 🧠 Deep learning gesture classification
 🌐 Simple web interface
 
---------------------------------------------------
+---
 
-👨‍💻 Author
+<h1>**👨‍💻 Author</h1>
 
-Thirumalai G
-GitHub: https://github.com/Thirumalai-Tech-Developer
+**Thirumalai G**
+GitHub: <a href="https://github.com/Thirumalai-Tech-Developer">
 
---------------------------------------------------
+---
 
-📜 License
+<h1>**📜 License**</h1>
 
-This project is intended for educational and research purposes.
+This project is intended for **educational and research purposes**.
