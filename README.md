@@ -102,6 +102,7 @@ Sign_Language_FullStack
 Main Django application containing core logic.
 
 Includes:
+
 • models.py  
 • views.py  
 • preprocessing pipeline  
@@ -111,6 +112,7 @@ Includes:
 Django project configuration.
 
 Handles:
+
 • server configuration  
 • routing  
 • application settings  
